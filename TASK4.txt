@@ -1,0 +1,25 @@
+TASK 4
+
+
+1.DESCRIBE THE DIFFERENCES IN BETWEEN
+  i)SMOKE & SANITY TESTING:
+       * Sanity testing is a subset of regression testing.it perform the test on the impacted component.Sanity testing is done to check that newly added functionalities, bugs,etc have been fixed
+        *Smoke testing is a high level end to end functonality,where unit tests should cover single component testing.We'll be testing some random test case.Smoke testing is also known as build verification testing or confidence testing.
+ ii)VALIDATION & VERIFICATION:
+      *Verification to check the building the right product (correct product) the process to ensure whether the product developed rightbor not and it is a static testing. Verification is based on the opinion of reviewer and may change from person to person.
+      * Validation to Check whether building the product right (working properly). It is a dynamic testing .Validation using the method such as black box,white box testing.but it is based on the fact and is often stable.
+ 
+
+2.EXPLAIN ABOUT AGILE METHODOLOGY?
+   AGILE METHODOLOGY:
+   Basically agile is known as able to move easily and quickly .In agile methodology is a set of techniques ,values, and principles designed toguide and improve how software development teams work together to deliver new applications and updates. And it is a very short period to check the outlook of the sourceand it also having a process to do one by one.And they'll work together for single component  by component like a team
+      
+  There is 5 things in agile methodology
+         *Designing
+         *Coding
+         *Testing
+         *Deploy
+         *maintain
+3. EXPLAIN ABOUT EPIC & USER STORIES?
+      EPIC: Epic are the larger bodies of work that can be broken down into a number of smaller task called stories.
+      USER STORIES: Stories is also called user stories are short requirement or requests written from the perspective of an end user.
